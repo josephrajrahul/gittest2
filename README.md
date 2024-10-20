@@ -1,1 +1,1 @@
-"Maste branch update"
+"Master branch update"
